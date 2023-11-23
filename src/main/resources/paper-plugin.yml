@@ -1,0 +1,4 @@
+name: RisingOfDungeons
+version: '${project.version}'
+main: fr.dieuours.risingofdungeons.RisingOfDungeons
+api-version: '1.20'
